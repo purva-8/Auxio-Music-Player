@@ -1,0 +1,22 @@
+Auxio es un reproductor de música nativo con una UI/UX rápida y sólida sin las muchas funciones inútiles que se encuentran en otros reproductores de música. En comparación con otras aplicaciones que utilizan la API nativa de MediaPlayer, Auxio se basa en Exoplayer, con una mejor experiencia auditiva y mejor compatibilidad con la biblioteca de música, <b>exactamente como debería ser un reproductor de música</b>.
+
+<b>Características</b>
+
+- Reproducción basada en ExoPlayer
+- Interfaz inteligente derivada de las últimas especificaciones de diseño de Material You
+- Una experiencia de usuario única que prioriza la facilidad de uso
+- Comportamiento del reproductor personalizable
+- Admite número de disco, múltiples artistas, tipo de lanzamiento, fecha exacta/original,
+Clasificación de pestañas y más
+- Sistema avanzado de "Artista" que unifica "Artista" y "Artista del álbum"
+- La función de administración de carpetas admite tarjeta SD
+- Diseño confiable y persistente del progreso de la reproducción.
+- Soporte completo para ReplayGain (incluidos archivos MP3, FLAC, OGG, OPUS y MP4)
+- Soporte para ecualizadores externos (aplicaciones como Wavelet)
+- Diseño de borde a borde
+- Soporte de cubierta integrado
+- buscar función
+- Reproducción automática cuando los auriculares están conectados
+- Widgets estilizados que se adaptan al tamaño de la oficina.
+- Completamente fuera de línea y privado
+- Carátula del álbum sin esquinas redondeadas (también puedes tenerla si quieres)

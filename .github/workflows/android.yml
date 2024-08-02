@@ -24,7 +24,9 @@ jobs:
     - name: Grant execute permission for gradlew
       run: chmod +x gradlew
     - name: Set execute permission for build_ffmpeg.sh
-      run: chmod +x /home/runner/work/Auxio-music-player/Auxio-music-player/media/libraries/decoder_ffmpeg/src/main/jni/build_ffmpeg.sh
+      run: chmod +x media/libraries/decoder_ffmpeg/src/main/jni/build_ffmpeg.sh
+    - name: Set Permision to configure
+      run: chmod +x configure
     - name: Test app with Gradle
       run: ./gradlew app:testDebug
     - name: Build debug APK with Gradle
